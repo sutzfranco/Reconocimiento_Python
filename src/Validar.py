@@ -8,7 +8,7 @@ from tkinter import messagebox
 import threading
 
 # Ruta donde están guardadas las imágenes de los rostros
-save_path = '/home/franco/Reconocimiento_facial/faces'
+save_path = '../faces'
 known_face_encodings = []
 known_face_names = []
 

@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # Ruta donde están guardadas las imágenes de los rostros
-save_path = '/home/franco/Reconocimiento_facial/faces'
+save_path = '../faces'
 known_face_encodings = []
 known_face_names = []
 
