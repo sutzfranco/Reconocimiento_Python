@@ -1,0 +1,15 @@
+Instalar cmake
+
+sudo apt install cmake
+
+Instalar pip para python
+
+sudo apt install python3-pip
+
+Instalar librerias opencv y face_recognition
+
+pip3 install opencv-python face_recognition
+
+Instalar Tkinter
+
+sudo apt install python3-tk
